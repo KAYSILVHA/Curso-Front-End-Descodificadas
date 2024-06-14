@@ -78,6 +78,211 @@ Nesta aula, exploramos os fundamentos de uma landing page, incluindo conceitos b
 
 <br>
 
+### Aula 2
+<h3>Organização do ambiente de desenvolvimento e boas práticas</h3>
+
+Aprenda a organizar seu ambiente de desenvolvimento, configurando ferramentas essenciais e adotando boas práticas para aumentar a produtividade. Vamos discutir a estrutura de pastas, convenções de nomenclatura e o uso de controle de versão com Git.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula2">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 3
+<h3>Estrutura geral de uma página em HTML / Tags Semânticas</h3>
+
+Nesta aula, vamos explorar a estrutura básica de uma página HTML e a importância das tags semânticas. Você aprenderá a criar uma página bem estruturada, melhorando a acessibilidade e a otimização para motores de busca.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula3">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+
+### Aula 4
+<h3>Imagem, som e vídeo</h3>
+
+Descubra como incorporar mídia em suas páginas web. Aprenderemos a inserir imagens, áudio e vídeos utilizando as tags HTML apropriadas, garantindo uma experiência rica e interativa para os usuários.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula4">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 5
+<h3>Formulários</h3>
+
+Aprenda a criar formulários interativos e funcionais. Abordaremos os diversos tipos de campos de formulário, validação de dados e como estilizar seus formulários para melhorar a usabilidade.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula5">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 6
+<h3>O que é CSS</h3>
+
+Nesta aula, você será introduzido ao CSS, a linguagem de estilos utilizada para estilizar páginas web. Aprenderemos como aplicar estilos básicos a elementos HTML e a importância do CSS para o design web.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula6">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 7
+<h3>Seletores</h3>
+
+Explore os seletores CSS, que permitem aplicar estilos específicos a elementos HTML. Veremos diferentes tipos de seletores e como utilizá-los para personalizar o design da sua página web de forma eficaz.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula7">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 8
+<h3>Box model</h3>
+
+Entenda o conceito do box model no CSS, que define como os elementos HTML são renderizados. Aprenderemos sobre margens, bordas, preenchimentos e o conteúdo, e como manipulá-los para criar layouts precisos.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula8">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 9
+<h3>Position</h3>
+
+Aprenda sobre as diferentes propriedades de posicionamento no CSS, como `static`, `relative`, `absolute` e `fixed`. Descubra como controlar a posição dos elementos na página para criar layouts mais complexos.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula9">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 10
+<h3>Flexbox</h3>
+
+Explore o Flexbox, um poderoso sistema de layout CSS. Aprenderemos como usar o Flexbox para criar layouts responsivos e flexíveis, alinhando e distribuindo elementos de forma eficaz.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula10">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 11
+<h3>Grid</h3>
+
+Descubra o CSS Grid, uma ferramenta avançada para criar layouts complexos e responsivos. Aprenderemos a definir áreas de grid e a posicionar elementos de forma precisa em um layout bidimensional.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula11">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 12
+<h3>Transições, animações e responsividade</h3>
+
+Nesta aula, vamos aprender a criar transições suaves e animações usando CSS. Também abordaremos técnicas para tornar seu design responsivo, adaptando-se a diferentes tamanhos de tela.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula12">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 13
+<h3>JavaScript: Introdução e Sintaxe</h3>
+
+Inicie sua jornada com JavaScript, a linguagem de programação para a web. Aprenderemos a sintaxe básica e como incorporar JavaScript em suas páginas para adicionar interatividade.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula13">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 14
+<h3>Valores, Variáveis e Operadores</h3>
+
+Explore os fundamentos do JavaScript, incluindo tipos de valores, variáveis e operadores. Aprenderemos a manipular dados e a realizar operações básicas com JavaScript.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula14">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 15
+<h3>Estruturas de controle</h3>
+
+Descubra as estruturas de controle em JavaScript, como condicionais e loops. Aprenderemos a controlar o fluxo do seu programa para executar diferentes ações com base em condições específicas.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula15">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Desafio Final
+<h3>Desafio Final</h3>
+
+Ponha em prática tudo o que aprendeu criando uma Landing Page completa. Este desafio final envolve a utilização de HTML, CSS e JavaScript para construir uma página funcional e visualmente atraente.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/desafioFinal">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
 
 <hr>
 
