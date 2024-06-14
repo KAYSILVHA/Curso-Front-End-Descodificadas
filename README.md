@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## Trilhas
+## 🛤️ Trilhas
 
 <p>
 Os conteúdos foram distribuídos em trilhas e seus materiais se encontram nas respectivas pastas:
