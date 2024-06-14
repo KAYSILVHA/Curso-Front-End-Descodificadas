@@ -61,16 +61,41 @@ Os conteúdos foram distribuídos em trilhas e seus materiais se encontram nas r
 ## ⭐ Conteúdos
 
   
-### Trilha 1
-<p> 
-  
+## Trilha 1
+<p>
+
+
+### Aula 1
+<h3>O que é uma landing page?</h3>
+
+Nesta aula, exploramos os fundamentos de uma landing page, incluindo conceitos básicos de HTML e CSS, bem como a utilização de plataformas no-code e o Google Sites. Durante o aprendizado, discutimos como criar uma página de destino atraente e funcional sem a necessidade de conhecimentos avançados em programação, destacando a importância da apresentação visual e da experiência do usuário. Além disso, abordamos as vantagens e possibilidades oferecidas por ferramentas no-code, que permitem a criação rápida e intuitiva de sites e páginas, como o Google Sites, que oferece recursos de fácil utilização para construção e publicação de conteúdo online.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula1">CLIQUE AQUI!</a></strong>
 </p>
 
 <br>
 
-### Trilha 2
-<p> 
-  
-</p>
 
 <hr>
+
+## Trilha 2
+<p>
+
+
+### Aula 1
+<h3>Como a internet funciona</h3>
+
+Nesta aula, exploraremos diversos aspectos sobre o funcionamento da internet, desde sua integração em nosso cotidiano até conceitos técnicos como endereços IP, protocolos, DNS, URL e conexões globais. Também abordaremos a história do HTML, noções básicas sobre domínios, publicação de sites e uma tarefa prática para entender melhor como a internet opera.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha2/aula1">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
