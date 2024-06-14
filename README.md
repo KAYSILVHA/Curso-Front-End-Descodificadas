@@ -301,6 +301,215 @@ Nesta aula, exploraremos diversos aspectos sobre o funcionamento da internet, de
 <strong>Códigos e Materiais: <a href="./trilha2/aula1">CLIQUE AQUI!</a></strong>
 </p>
 
+<p>
+
+<br>
+
+### Aula 2
+<h3>SEO / UX e UI / Hospedagem / Git e GitHub</h3>
+
+Nesta aula, aprendemos sobre otimização para mecanismos de busca (SEO), a importância da experiência do usuário (UX) e interface do usuário (UI), como hospedar um site, e os conceitos básicos de Git e GitHub para controle de versão.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula2">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 3
+<h3>Meta Tags / Atributos / Tag svg / Tag area</h3>
+
+Nesta aula, abordamos a utilização de meta tags para SEO, os diferentes atributos das tags HTML, e a utilização das tags SVG e area para criar gráficos e mapas de imagem.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula3">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+
+### Aula 4
+<h3>Formulários / Tabelas / Iframe</h3>
+
+Nesta aula, aprendemos como criar e estilizar formulários, tabelas, e como integrar conteúdo de outras páginas web usando iframes.
+
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula4">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 5
+<h3>História do CSS - revendo conceitos</h3>
+
+Nesta aula, revisamos a história do CSS, seus principais conceitos e como ele evoluiu para tornar o desenvolvimento web mais eficiente e estilizado.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula5">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 6
+<h3>Menu Dropdown</h3>
+
+Nesta aula, aprendemos a criar menus dropdown, que são elementos de navegação interativos que permitem aos usuários escolher entre várias opções.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula6">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 7
+<h3>Card</h3>
+
+Nesta aula, exploramos a criação e estilização de cards, que são contêineres utilizados para destacar informações importantes de maneira visualmente atraente.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula7">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 8
+<h3>Flexbox</h3>
+
+Nesta aula, aprendemos sobre o layout Flexbox, uma maneira eficiente de organizar elementos em uma página de maneira flexível e responsiva.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula8">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 9
+<h3>Exibição e posicionamento</h3>
+
+Nesta aula, abordamos os diferentes métodos de exibição e posicionamento de elementos no CSS, incluindo display, position, float, e z-index.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula9">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 10
+<h3>Grid</h3>
+
+Nesta aula, exploramos o CSS Grid Layout, uma técnica de layout poderosa que permite a criação de designs de grade complexos e responsivos.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula10">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 11
+<h3>Grid</h3>
+
+Nesta aula, continuamos a explorar o CSS Grid Layout, aprofundando-se em técnicas avançadas e práticas recomendadas para criar layouts sofisticados.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula11">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 12
+<h3>Integração JavaScript com HTML: eventos</h3>
+
+Nesta aula, aprendemos como integrar JavaScript com HTML para manipular eventos, permitindo a criação de páginas web interativas e dinâmicas.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula12">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 13
+<h3>Funções</h3>
+
+Nesta aula, exploramos a criação e utilização de funções em JavaScript, uma das estruturas fundamentais para a construção de programas eficientes e reutilizáveis.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula13">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+
+### Aula 14
+<h3>VEstruturas de controle</h3>
+
+Nesta aula, aprendemos sobre as estruturas de controle em JavaScript, incluindo condicionais e loops, que permitem a criação de fluxos de lógica complexos.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula14">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Aula 15
+<h3>Arrays e objetos</h3>
+
+Nesta aula, exploramos arrays e objetos em JavaScript, que são estruturas de dados essenciais para armazenar e manipular conjuntos de informações.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/aula15">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
+
+### Desafio Final
+<h3>Desafio Final</h3>
+
+Ponha em prática tudo o que aprendeu criando uma Landing Page completa. Este desafio final envolve a utilização de HTML, CSS e JavaScript para construir uma página funcional e visualmente atraente.
+
+</p>
+
+<p>
+<strong>Códigos e Materiais: <a href="./trilha1/desafioFinal">CLIQUE AQUI!</a></strong>
+</p>
+
+<br>
 
 <hr>
 <br>
